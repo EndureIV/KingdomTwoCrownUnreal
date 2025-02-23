@@ -6,4 +6,5 @@ Inputs :
 -Q/Flèche de gauche => déplacement vers la gauche.
 -S/Flèche du Bas Pressed => fait tomber une pièce.
 -S/Flèche du Bas Hold => Achete une amélioration.
+-Shit => Course
 -Ctrl + Shift + T => Cheat Table.
